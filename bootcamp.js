@@ -1,0 +1,15 @@
+
+var count=document.getElementById("count");
+
+var integer=0;
+
+
+function increment(){
+    integer=integer+1;
+    count.innerHTML=integer;
+}
+
+function decrement(){
+    integer=integer-1;
+    count.innerHTML=integer;
+}
