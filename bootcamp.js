@@ -13,3 +13,9 @@ function decrement(){
     integer=integer-1;
     count.innerHTML=integer;
 }
+
+
+function reset{
+    integer=0;
+    count.innerHTML=integer;
+}
