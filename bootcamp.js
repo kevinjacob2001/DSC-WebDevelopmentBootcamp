@@ -15,7 +15,7 @@ function decrement(){
 }
 
 
-function reset{
+function reset(){
     integer=0;
     count.innerHTML=integer;
 }
