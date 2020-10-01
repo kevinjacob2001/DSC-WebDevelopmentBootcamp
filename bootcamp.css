@@ -14,8 +14,11 @@ body{
     width: 350px;
     height: 350px;
     background: rgb(33, 44, 65);
+    border-radius: 50%;
     text-align: center;
     border: 3px solid white;
+    margin-top: 17%;
+    margin-left: 41%;
 }
 
 button{
@@ -24,6 +27,6 @@ button{
     border: 0;
     font-weight: bold;
     border-radius: 40px;
-    margin: 20px;
+    margin: 25px;
     background: cornsilk;
 }
